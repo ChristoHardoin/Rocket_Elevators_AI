@@ -1,0 +1,44 @@
+- RocketIntent :
+    What is going on at Rocket Elevators
+
+- ElevatorStatusIntent : 
+    What is the status of Elevator {id}
+
+- ColumnStatusIntent : 
+    What is the status of Column {id}
+
+- BatteryStatusIntent : 
+    What is the status of Battery {id}
+
+- ChangeElevatorStatusIntent : 
+    change the status of elevator {id} 
+
+- ChangeStatusForElevatorIntent : 
+    change elevator status for {status}
+
+- ShowElevatorInfoIntent : 
+    show me the info of the elevator {id}
+
+- ShowColumnInfoIntent : 
+    show me the info of the column {id}
+
+- ShowBatteryInfoIntent : 
+    show me the info of the battery {id}
+
+- ShowCustomerIntent (create intervention) :
+    my name is {employee_name} create an intervention for the customer {name} for the employee {employee}
+
+- ShowBuildingIntent : 
+    show me his building
+
+- ChooseBuildingIntent : 
+    choose the building {id}
+
+- ShowBatteryInterventionIntent : 
+    show me his battery
+
+- ChooseBatteryInterIntent : 
+    choose the battery {id}
+
+- ShowColumnIntervIntent : 
+    show me his columns
