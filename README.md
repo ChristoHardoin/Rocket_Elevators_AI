@@ -1,2 +1,2 @@
-allo -Toma \n
-Bonjour -Alfred
+allo -Toma <br>
+Bonjour -Alfred <br>
